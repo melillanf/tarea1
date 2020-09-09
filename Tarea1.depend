@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598461118 source:c:\users\melil\desktop\tarea1\list.c
+	<string.h>
+	"list.h"
+
+1598460905 c:\users\melil\desktop\tarea1\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1599632969 source:c:\users\melil\desktop\tarea1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	<string.h>
+
